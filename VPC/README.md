@@ -217,6 +217,12 @@ A **NAT Gateway** allows instances in the **private subnet** to access the inter
 
 ---
 
+Also watch My Youtube Video Do Like, share, Subscribe
+https://youtu.be/k7XdtwNsBHQ?si=g22If2I5BBiI4zCS
+
+<img width="600" height="600" alt="AWS series (1)" src="https://github.com/user-attachments/assets/ae3bd58c-5f13-4e09-93fb-770a6c3eaa45" />
+
+
 <img width="1536" height="1024" alt="AWS VPC architecture diagram" src="https://github.com/user-attachments/assets/4ec62125-2e5c-45a5-a021-c1d231dffc98" />
 
 
