@@ -18,7 +18,7 @@ This repository contains **structured notes, practical examples, and resources**
 ## 🎥 YouTube Series
 
 📺 Watch full AWS Marathi tutorials here:  
-👉 (Add your YouTube playlist link here)
+👉 https://youtube.com/@teacode-1122?si=BWQ1qbXrVZXSij-V
 
 ---
 
@@ -77,8 +77,8 @@ Want to contribute?
 ## 📣 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/divya-satpute/ 
-- 📸 Instagram: @teacode1122  
-- 🎥 YouTube: https://www.youtube.com/@Teacode-1122
+- 📸 Instagram: https://www.instagram.com/teacode1122/ 
+- 🎥 YouTube: https://youtube.com/@teacode-1122?si=BWQ1qbXrVZXSij-V
 
 ---
 
